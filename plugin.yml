@@ -1,0 +1,10 @@
+name: KnockbackFFA
+main: KnockbackFFA\KnockbackFFA
+version: 1.8.0
+api: 3.0.0
+author: Ruby
+commands:
+  knockbackffa:
+    description: Join KnockbackFFA directly per Command
+  kbf:
+    description: Join KnockbackFFA directly per Command
